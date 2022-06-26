@@ -1,0 +1,6 @@
+C:\Users\ty\source\repos\CruiseMod\CruiseMod\bin\Debug\CruiseMod.dll
+C:\Users\ty\source\repos\CruiseMod\CruiseMod\bin\Debug\CruiseMod.pdb
+C:\Users\ty\source\repos\CruiseMod\CruiseMod\obj\Debug\CruiseMod.csproj.AssemblyReference.cache
+C:\Users\ty\source\repos\CruiseMod\CruiseMod\obj\Debug\CruiseMod.csproj.CoreCompileInputs.cache
+C:\Users\ty\source\repos\CruiseMod\CruiseMod\obj\Debug\CruiseMod.dll
+C:\Users\ty\source\repos\CruiseMod\CruiseMod\obj\Debug\CruiseMod.pdb
